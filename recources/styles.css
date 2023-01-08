@@ -126,7 +126,6 @@ nav {
 .flex-item {
 	width: 30%;
 	flex: 1 1 auto;
-	border-radius: 1rem;
 	text-align: center;
 	font-size: 2.3rem;
 	color: white;
@@ -135,6 +134,7 @@ nav {
 
 .flex-item img {
 	width: 100%;
+	border-radius: 1rem;
 }
 
 @media only screen and (max-width: 800px) {
