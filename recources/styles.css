@@ -114,6 +114,12 @@ nav {
 	font-weight: 600;
 }
 
+@media only screen and (max-width: 600px) {
+.we {
+	font-size: 1.5rem;
+}
+}
+
 .flex-container {
 	padding: 1rem;
 	display: flex;
