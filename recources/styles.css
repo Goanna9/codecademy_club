@@ -114,11 +114,27 @@ nav {
 	font-weight: 600;
 }
 
+.we li {
+	overflow-wrap: break-word;
+}
+
 @media only screen and (max-width: 600px) {
+	.we {
+		font-size: 4rem;
+	}
+	}
+
+@media only screen and (max-width: 450px) {
 .we {
-	font-size: 1.8rem;
+	font-size: 3rem;
 }
 }
+
+@media only screen and (max-width: 350px) {
+	.we {
+		font-size: 2rem;
+	}
+	}
 
 .flex-container {
 	padding: 1rem;
