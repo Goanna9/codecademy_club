@@ -150,6 +150,9 @@ nav {
 	.text {
 		margin-top: 1rem;
 	}
+	.flex-item img {
+		border-radius: 0;
+	}
 }
 /* ------ ↓ FOOTER ↓ ------ */
 footer {
